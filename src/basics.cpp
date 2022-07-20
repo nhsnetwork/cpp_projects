@@ -1,8 +1,9 @@
-
 #include <iostream>
+#include <string>
+#include "templates.h"
+#include "classes.h"
 
 int main()
 {
-    std::cout << "Hello World!\n";
-    std::cin.get();
+
 }

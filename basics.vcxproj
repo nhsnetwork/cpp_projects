@@ -21,6 +21,10 @@
   <ItemGroup>
     <ClCompile Include="src\basics.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\classes.h" />
+    <ClInclude Include="src\templates.h" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
